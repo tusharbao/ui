@@ -1,0 +1,183 @@
+## UI/UX Practical: Product Packaging Mockup and Poster/Flyer Mockup
+
+### 30 Most Expected Oral/Viva Questions with Answers
+
+Q1. What is a mockup?
+
+English: A mockup is a visual representation of a final design that shows how it will look in real life.
+
+Marathi + English: Mockup म्हणजे final design real life मध्ये कसा दिसेल हे दाखवणारं visual representation असतं.
+
+Q2. What is product packaging design?
+
+English: Product packaging design is the process of designing the outer covering of a product.
+
+Marathi + English: Product चं outer covering attractive आणि useful बनवण्याच्या process ला Product Packaging Design म्हणतात.
+
+Q3. What is the main purpose of packaging?
+
+English: Packaging protects the product, provides information, and attracts customers.
+
+Marathi + English: Packaging चा मुख्य उद्देश product protect करणे, information देणे आणि customers attract करणे हा आहे.
+
+Q4. What are the main elements of packaging design?
+
+English: Logo, brand name, colors, product images, typography, and product information.
+
+Marathi + English: Logo, brand name, colors, product images, typography आणि product information हे packaging चे मुख्य elements आहेत.
+
+Q5. What is a product mockup?
+
+English: A product mockup shows how the packaging design will look on an actual product.
+
+Marathi + English: Actual product वर packaging design कसं दिसेल हे दाखवणं म्हणजे Product Mockup.
+
+Q6. What is a logo?
+
+English: A logo is a visual symbol that represents a brand or company.
+
+Marathi + English: Brand किंवा company ला represent करणाऱ्या visual symbol ला Logo म्हणतात.
+
+Q7. What is branding?
+
+English: Branding is the process of creating a unique identity for a product or company.
+
+Marathi + English: Product किंवा company ची unique identity तयार करण्याच्या process ला Branding म्हणतात.
+
+Q8. What is typography?
+
+English: Typography is the style and arrangement of text in a design.
+
+Marathi + English: Design मधील text ची style आणि arrangement याला Typography म्हणतात.
+
+Q9. Why are colors important in packaging design?
+
+English: Colors attract customers and help communicate the product's identity.
+
+Marathi + English: Colors customers ना attract करतात आणि product ची identity दाखवायला मदत करतात.
+
+Q10. What is a packaging label?
+
+English: A packaging label provides information such as product name, ingredients, price, and manufacturing date.
+
+Marathi + English: Product name, ingredients, price आणि manufacturing date यांसारखी information देणाऱ्या भागाला Packaging Label म्हणतात.
+
+Q11. What is a 3D mockup?
+
+English: A 3D mockup shows a design with depth, height, and width to make it look realistic.
+
+Marathi + English: Design ला depth, height आणि width देऊन realistic दाखवण्याला 3D Mockup म्हणतात.
+
+Q12. What is a dieline?
+
+English: A dieline is a flat template that shows where packaging should be cut, folded, and assembled.
+
+Marathi + English: Packaging कुठे cut, fold आणि assemble करायचं हे दाखवणाऱ्या flat template ला Dieline म्हणतात.
+
+Q13. What is a poster?
+
+English: A poster is a visual design used to communicate information or promote something.
+
+Marathi + English: Information देण्यासाठी किंवा एखाद्या गोष्टीची promotion करण्यासाठी तयार केलेल्या design ला Poster म्हणतात.
+
+Q14. What is a flyer?
+
+English: A flyer is a small printed or digital advertisement used to promote an event, product, or service.
+
+Marathi + English: Event, product किंवा service promote करण्यासाठी वापरल्या जाणाऱ्या छोट्या advertisement ला Flyer म्हणतात.
+
+Q15. What is the difference between a poster and a flyer?
+
+English: A poster is usually displayed on walls, while a flyer is distributed directly to people or shared digitally.
+
+Marathi + English: Poster साधारणपणे walls वर display करतात, तर Flyer लोकांना distribute करतात किंवा digitally share करतात.
+
+Q16. What are the main elements of a poster?
+
+English: Headline, images, colors, event details, typography, and contact information.
+
+Marathi + English: Headline, images, colors, event details, typography आणि contact information हे Poster चे main elements आहेत.
+
+Q17. What is visual hierarchy?
+
+English: Visual hierarchy arranges design elements according to their importance.
+
+Marathi + English: कोणती information आधी आणि कोणती नंतर दिसावी हे ठरवण्याला Visual Hierarchy म्हणतात.
+
+Q18. What is alignment in graphic design?
+
+English: Alignment means arranging design elements in a proper and organized way.
+
+Marathi + English: Design मधील elements व्यवस्थित एका line किंवा position मध्ये arrange करण्याला Alignment म्हणतात.
+
+Q19. What is contrast in design?
+
+English: Contrast is the difference between design elements, such as light and dark colors.
+
+Marathi + English: Design मधील colors किंवा elements मध्ये फरक दाखवण्याला Contrast म्हणतात.
+
+Q20. What is whitespace?
+
+English: Whitespace is the empty space between design elements that improves readability.
+
+Marathi + English: Design मधील elements भोवती असलेल्या रिकाम्या जागेला Whitespace म्हणतात. त्यामुळे design clean दिसतं.
+
+Q21. Which tools are used to create packaging mockups?
+
+English: Adobe Photoshop, Adobe Illustrator, Figma, and online mockup tools can be used.
+
+Marathi + English: Packaging mockups तयार करण्यासाठी Photoshop, Illustrator, Figma आणि online mockup tools वापरू शकतो.
+
+Q22. Which tools are used to design posters and flyers?
+
+English: Canva, Adobe Photoshop, Adobe Illustrator, and Figma are commonly used.
+
+Marathi + English: Posters आणि Flyers तयार करण्यासाठी Canva, Photoshop, Illustrator आणि Figma वापरतात.
+
+Q23. What is a realistic mockup?
+
+English: A realistic mockup presents a design in a real-world environment with natural lighting and shadows.
+
+Marathi + English: Natural lighting आणि shadows वापरून design real environment मध्ये दाखवण्याला Realistic Mockup म्हणतात.
+
+Q24. Why should we showcase a packaging design from different angles?
+
+English: Different angles help viewers understand the complete design and product appearance.
+
+Marathi + English: वेगवेगळ्या angles मधून packaging दाखवल्यामुळे viewers ना complete design समजतो.
+
+Q25. What is a front view in packaging design?
+
+English: The front view shows the main face of the packaging, including the brand name and product title.
+
+Marathi + English: Packaging च्या समोरील भागाला Front View म्हणतात. त्यात brand name आणि product title दिसतात.
+
+Q26. What is a back view in packaging design?
+
+English: The back view displays additional information such as ingredients, instructions, and product details.
+
+Marathi + English: Packaging च्या मागील बाजूला ingredients, instructions आणि product details असतात.
+
+Q27. What is CMYK?
+
+English: CMYK stands for Cyan, Magenta, Yellow, and Key (Black). It is mainly used for printing.
+
+Marathi + English: CMYK म्हणजे Cyan, Magenta, Yellow आणि Black. हा color mode printing साठी वापरतात.
+
+Q28. What is RGB?
+
+English: RGB stands for Red, Green, and Blue. It is mainly used for digital screens.
+
+Marathi + English: RGB म्हणजे Red, Green आणि Blue. हा color mode mobile आणि computer screens साठी वापरतात.
+
+Q29. What is the difference between RGB and CMYK?
+
+English: RGB is used for digital displays, while CMYK is used for printed materials.
+
+Marathi + English: RGB digital screens साठी वापरतात, तर CMYK printing साठी वापरतात.
+
+Q30. What is the main objective of a poster or packaging mockup?
+
+English: The main objective is to present the design professionally and show how it will look in real life.
+
+Marathi + English: Design professionally present करणे आणि real life मध्ये कसं दिसेल हे दाखवणं हा Mockup चा main objective आहे.

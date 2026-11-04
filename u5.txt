@@ -1,0 +1,183 @@
+## UI/UX Practical: Design a Recipe Finder Application Using Figma
+
+### 30 Most Expected Oral/Viva Questions with Answers
+
+Q1. What is a Recipe Finder Application?
+
+English: A Recipe Finder Application helps users find recipes based on ingredients, food categories, and dietary preferences.
+
+Marathi + English: Recipe Finder App म्हणजे ingredients, food categories आणि dietary preferences नुसार recipes शोधण्यासाठी वापरलं जाणारं application.
+
+Q2. What is the main objective of a Recipe Finder App?
+
+English: Its main objective is to help users find suitable recipes quickly and easily.
+
+Marathi + English: Users ना त्यांच्या गरजेनुसार recipes पटकन आणि easily शोधता याव्यात हा याचा main objective आहे.
+
+Q3. What is Figma?
+
+English: Figma is a cloud-based design tool used to create user interfaces, wireframes, and prototypes.
+
+Marathi + English: Figma हे cloud-based tool आहे, ज्याचा वापर UI design, wireframes आणि prototypes तयार करण्यासाठी होतो.
+
+Q4. What is a wireframe?
+
+English: A wireframe is a basic layout that shows the structure of an application.
+
+Marathi + English: Wireframe म्हणजे application चा basic layout, जो त्याची structure दाखवतो.
+
+Q5. What is a prototype?
+
+English: A prototype is an interactive model that shows how an application works.
+
+Marathi + English: Prototype म्हणजे application कसं काम करतं हे दाखवणारं interactive model.
+
+Q6. What are the main features of a Recipe Finder App?
+
+English: Recipe search, ingredient filters, food categories, recipe details, cooking instructions, and favorites.
+
+Marathi + English: Recipe search, ingredient filters, food categories, recipe details, cooking instructions आणि favorites हे मुख्य features आहेत.
+
+Q7. What is a search bar?
+
+English: A search bar allows users to search for specific recipes or ingredients.
+
+Marathi + English: Specific recipes किंवा ingredients शोधण्यासाठी Search Bar वापरतात.
+
+Q8. What is ingredient-based search?
+
+English: Ingredient-based search helps users find recipes using the ingredients they already have.
+
+Marathi + English: User कडे उपलब्ध असलेल्या ingredients वापरून recipes शोधण्याला Ingredient-based Search म्हणतात.
+
+Q9. What is a food category?
+
+English: A food category groups recipes into types such as breakfast, lunch, dinner, and desserts.
+
+Marathi + English: Breakfast, lunch, dinner आणि desserts अशा प्रकारांमध्ये recipes divide करण्याला Food Category म्हणतात.
+
+Q10. What are dietary restrictions?
+
+English: Dietary restrictions are food limitations based on health, lifestyle, or personal preferences.
+
+Marathi + English: Health, lifestyle किंवा personal preferences मुळे काही food avoid करण्याच्या limitations ला Dietary Restrictions म्हणतात.
+
+Q11. What is a vegetarian filter?
+
+English: A vegetarian filter displays only recipes that do not contain meat or fish.
+
+Marathi + English: Meat किंवा fish नसलेल्या recipes दाखवण्यासाठी Vegetarian Filter वापरतात.
+
+Q12. What is a vegan diet?
+
+English: A vegan diet avoids all animal-based products, including meat, eggs, and dairy.
+
+Marathi + English: Vegan diet मध्ये meat, eggs आणि dairy products यांसारखे सर्व animal-based foods avoid केले जातात.
+
+Q13. What is a recipe detail page?
+
+English: It displays recipe information such as ingredients, preparation time, cooking time, and instructions.
+
+Marathi + English: Recipe Detail Page मध्ये ingredients, preparation time, cooking time आणि instructions दिलेल्या असतात.
+
+Q14. What are cooking instructions?
+
+English: Cooking instructions are step-by-step directions for preparing a recipe.
+
+Marathi + English: एखादी recipe तयार करण्यासाठी दिलेल्या step-by-step directions म्हणजे Cooking Instructions.
+
+Q15. What is a favorite feature?
+
+English: The favorite feature allows users to save recipes for future use.
+
+Marathi + English: भविष्यात पुन्हा वापरण्यासाठी recipes save करण्याची सुविधा म्हणजे Favorite Feature.
+
+Q16. What is a bookmark icon?
+
+English: A bookmark icon is used to save or mark important content for later.
+
+Marathi + English: एखादी recipe नंतर पाहण्यासाठी save करण्यासाठी Bookmark Icon वापरतात.
+
+Q17. What is a filter in UI design?
+
+English: A filter helps users narrow down results based on selected conditions.
+
+Marathi + English: Selected conditions नुसार search results कमी करण्यासाठी Filter वापरतात.
+
+Q18. What is sorting?
+
+English: Sorting arranges recipes according to criteria such as popularity, rating, or cooking time.
+
+Marathi + English: Popularity, rating किंवा cooking time नुसार recipes arrange करण्याला Sorting म्हणतात.
+
+Q19. What is a recipe card?
+
+English: A recipe card is a small section that displays a recipe's image, name, and basic details.
+
+Marathi + English: Recipe चा image, name आणि basic details दाखवणाऱ्या section ला Recipe Card म्हणतात.
+
+Q20. What is a user-friendly interface?
+
+English: A user-friendly interface is simple, clear, and easy to navigate.
+
+Marathi + English: जो interface simple, clear आणि वापरायला सोपा असतो, त्याला User-friendly Interface म्हणतात.
+
+Q21. What is navigation in an application?
+
+English: Navigation helps users move between different screens or sections of an application.
+
+Marathi + English: Application च्या वेगवेगळ्या screens किंवा sections मध्ये जाण्यासाठी Navigation मदत करतं.
+
+Q22. What is a dashboard?
+
+English: A dashboard is the main screen that provides quick access to important features and information.
+
+Marathi + English: Dashboard म्हणजे main screen जिथून important features आणि information सहज access करता येते.
+
+Q23. What is UI design?
+
+English: UI design focuses on the visual appearance and layout of an application.
+
+Marathi + English: Application चं appearance आणि layout कसं असावं यावर UI Design focus करतो.
+
+Q24. What is UX design?
+
+English: UX design focuses on making an application easy and comfortable for users.
+
+Marathi + English: Application वापरताना user ला चांगला आणि comfortable experience देण्यावर UX Design focus करतो.
+
+Q25. What is responsive design?
+
+English: Responsive design adjusts the interface according to different screen sizes.
+
+Marathi + English: Mobile, tablet आणि desktop च्या screen size नुसार interface adjust होण्याला Responsive Design म्हणतात.
+
+Q26. What is a call-to-action (CTA) button?
+
+English: A CTA button encourages users to perform an action, such as Search Recipe or Save Favorite.
+
+Marathi + English: Search Recipe किंवा Save Favorite सारखी action घेण्यासाठी user ला encourage करणाऱ्या button ला CTA म्हणतात.
+
+Q27. What is auto-layout in Figma?
+
+English: Auto Layout automatically arranges and spaces elements inside a frame.
+
+Marathi + English: Figma मधील Auto Layout elements ना automatically arrange आणि space देतं.
+
+Q28. What is a component in Figma?
+
+English: A component is a reusable design element, such as a button, icon, or recipe card.
+
+Marathi + English: Button, icon किंवा recipe card सारखा पुन्हा वापरता येणारा design element म्हणजे Component.
+
+Q29. What is the use of the Prototype tab in Figma?
+
+English: The Prototype tab is used to connect screens and add interactions between them.
+
+Marathi + English: वेगवेगळ्या screens connect करण्यासाठी आणि interactions add करण्यासाठी Prototype Tab वापरतात.
+
+Q30. What is the main benefit of a Recipe Finder Application?
+
+English: It saves users' time by helping them discover recipes based on available ingredients and food preferences.
+
+Marathi + English: Available ingredients आणि food preferences नुसार recipes शोधून देऊन users चा वेळ वाचवणं हा याचा मुख्य फायदा आहे.

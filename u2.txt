@@ -1,0 +1,183 @@
+## UI/UX Practical: Wireframe for an Online Learning Platform
+
+### 30 Most Expected Oral/Viva Questions with Answers
+
+Q1. What is an Online Learning Platform?
+
+English: An online learning platform is a website or application where users can learn through online courses, videos, and quizzes.
+
+Marathi + English: Online Learning Platform म्हणजे website किंवा app जिथे users courses, videos आणि quizzes च्या मदतीने online शिकू शकतात.
+
+Q2. What is a wireframe?
+
+English: A wireframe is a basic visual layout of a website or application.
+
+Marathi + English: Wireframe म्हणजे website किंवा application चा basic layout असतो.
+
+Q3. Why do we create a wireframe?
+
+English: We create wireframes to plan the layout and structure before designing the final interface.
+
+Marathi + English: Final design करण्याआधी website चा layout आणि structure plan करण्यासाठी wireframe तयार करतो.
+
+Q4. Which tool is used to design the wireframe?
+
+English: Figma is commonly used to create wireframes and UI designs.
+
+Marathi + English: Wireframe आणि UI design तयार करण्यासाठी Figma हे tool वापरलं जातं.
+
+Q5. What is Figma?
+
+English: Figma is a cloud-based design tool used to create UI designs, wireframes, and prototypes.
+
+Marathi + English: Figma हे cloud-based tool आहे, ज्याचा वापर UI design, wireframe आणि prototype बनवण्यासाठी होतो.
+
+Q6. What are the main features of an Online Learning Platform?
+
+English: Course listings, video lectures, quizzes, progress tracking, and user profiles.
+
+Marathi + English: Online Learning Platform मध्ये courses, video lectures, quizzes, progress tracking आणि user profile हे मुख्य features असतात.
+
+Q7. What is a course listing?
+
+English: A course listing displays all available courses with their details.
+
+Marathi + English: Available courses आणि त्यांची details दाखवणाऱ्या section ला Course Listing म्हणतात.
+
+Q8. What is a video lecture?
+
+English: A video lecture is an educational video used to teach a particular topic.
+
+Marathi + English: एखादा topic शिकवण्यासाठी वापरल्या जाणाऱ्या educational video ला Video Lecture म्हणतात.
+
+Q9. What is a quiz?
+
+English: A quiz is a set of questions used to test a student's knowledge.
+
+Marathi + English: Student चं knowledge check करण्यासाठी वापरल्या जाणाऱ्या questions च्या set ला Quiz म्हणतात.
+
+Q10. What is progress tracking?
+
+English: Progress tracking shows how much of a course a student has completed.
+
+Marathi + English: Student ने course किती complete केला आहे हे दाखवण्याला Progress Tracking म्हणतात.
+
+Q11. What is a dashboard?
+
+English: A dashboard is the main screen that displays important information and activities.
+
+Marathi + English: Dashboard म्हणजे main screen जिथे important information आणि activities दिसतात.
+
+Q12. What is a navigation bar?
+
+English: A navigation bar helps users move between different pages of a website.
+
+Marathi + English: Website च्या वेगवेगळ्या pages वर जाण्यासाठी Navigation Bar मदत करतो.
+
+Q13. What is a search bar?
+
+English: A search bar allows users to find specific courses or information quickly.
+
+Marathi + English: Specific course किंवा information पटकन शोधण्यासाठी Search Bar वापरतो.
+
+Q14. What is a login page?
+
+English: A login page allows registered users to access their accounts.
+
+Marathi + English: Registered users ना त्यांच्या account मध्ये प्रवेश करण्यासाठी Login Page वापरतात.
+
+Q15. What is a sign-up page?
+
+English: A sign-up page allows new users to create an account.
+
+Marathi + English: New users ना नवीन account तयार करण्यासाठी Sign-up Page वापरतात.
+
+Q16. What is a course detail page?
+
+English: It displays course information such as title, description, instructor, duration, and price.
+
+Marathi + English: Course Detail Page मध्ये title, description, instructor, duration आणि price यांची माहिती असते.
+
+Q17. What is a progress bar?
+
+English: A progress bar visually shows the completion percentage of a task or course.
+
+Marathi + English: Course किती percent complete झाला आहे हे visually दाखवणाऱ्या bar ला Progress Bar म्हणतात.
+
+Q18. What is a prototype?
+
+English: A prototype is an interactive model of a website or application.
+
+Marathi + English: Website किंवा application चं interactive model म्हणजे Prototype.
+
+Q19. What is the difference between Wireframe and Prototype?
+
+English: A wireframe shows the basic layout, while a prototype shows how the design works through interaction.
+
+Marathi + English: Wireframe मध्ये basic layout दिसतो, तर Prototype मध्ये design कसं काम करतं हे interaction द्वारे दाखवलं जातं.
+
+Q20. What is UI design?
+
+English: UI design focuses on the visual appearance of a website or application.
+
+Marathi + English: Website किंवा app कसं दिसतं यावर UI Design focus करतो.
+
+Q21. What is UX design?
+
+English: UX design focuses on making a product easy and comfortable to use.
+
+Marathi + English: Product वापरायला easy आणि comfortable बनवण्यावर UX Design focus करतो.
+
+Q22. What is a user-friendly interface?
+
+English: A user-friendly interface is easy to understand and use.
+
+Marathi + English: जो interface easily समजतो आणि वापरायला सोपा असतो, त्याला User-friendly Interface म्हणतात.
+
+Q23. What is responsive design?
+
+English: Responsive design adjusts the layout according to different screen sizes.
+
+Marathi + English: Mobile, tablet आणि desktop च्या screen size नुसार layout adjust होण्याला Responsive Design म्हणतात.
+
+Q24. Why is a video player important in an e-learning platform?
+
+English: It allows students to play, pause, and control educational videos.
+
+Marathi + English: Students ना educational videos play, pause आणि control करण्यासाठी Video Player महत्त्वाचा असतो.
+
+Q25. What is course categorization?
+
+English: Course categorization means organizing courses into different subjects or categories.
+
+Marathi + English: Courses ना वेगवेगळ्या subjects किंवा categories मध्ये divide करण्याला Course Categorization म्हणतात.
+
+Q26. What is a call-to-action button?
+
+English: A call-to-action button encourages users to perform an action, such as Enroll Now or Start Learning.
+
+Marathi + English: Enroll Now किंवा Start Learning सारखी action घेण्यासाठी user ला encourage करणाऱ्या button ला CTA म्हणतात.
+
+Q27. What is the use of feedback in an online learning platform?
+
+English: Feedback helps students understand their performance and improve their learning.
+
+Marathi + English: Feedback मुळे students ना त्यांची performance समजते आणि improvement करता येतं.
+
+Q28. What is auto-save in online learning?
+
+English: Auto-save automatically saves a user's progress without manual action.
+
+Marathi + English: User ने manually save न करता त्याचा learning progress automatically save होण्याला Auto-save म्हणतात.
+
+Q29. What is the difference between high-fidelity and low-fidelity wireframes?
+
+English: Low-fidelity wireframes are simple sketches, while high-fidelity wireframes contain more details and visual elements.
+
+Marathi + English: Low-fidelity wireframe हा simple layout असतो, तर High-fidelity मध्ये जास्त details आणि visual elements असतात.
+
+Q30. What is the main objective of an Online Learning Platform?
+
+English: Its main objective is to provide easy and flexible learning through online courses and educational resources.
+
+Marathi + English: Online courses आणि educational resources च्या मदतीने students ना easy आणि flexible learning देणं हा याचा main objective आहे.

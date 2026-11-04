@@ -1,0 +1,183 @@
+## UI/UX Practical: Designing a Social Fitness App – Wireframes and Prototype
+
+### 30 Most Expected Oral/Viva Questions with Answers
+
+Q1. What is a Social Fitness App?
+
+English: A social fitness app is an application that helps users track their fitness activities and connect with friends.
+
+Marathi + English: Social Fitness App म्हणजे असं application जे users ना fitness activities track करायला आणि friends सोबत connect व्हायला मदत करतं.
+
+Q2. What is the main objective of a Social Fitness App?
+
+English: Its main objective is to motivate users to stay fit through workout tracking and social interaction.
+
+Marathi + English: Workout tracking आणि social interaction च्या मदतीने users ना fit राहण्यासाठी motivate करणं हा याचा main objective आहे.
+
+Q3. What are the main features of a Social Fitness App?
+
+English: Workout tracking, exercise logging, goal setting, friend connections, and progress sharing.
+
+Marathi + English: Workout tracking, exercise logging, goal setting, friends connect करणे आणि progress share करणे हे मुख्य features आहेत.
+
+Q4. What is a wireframe?
+
+English: A wireframe is a basic layout that shows the structure of an application.
+
+Marathi + English: Wireframe म्हणजे application चा basic layout असतो, जो त्याची structure दाखवतो.
+
+Q5. What is a prototype?
+
+English: A prototype is an interactive model that shows how an application will work.
+
+Marathi + English: Prototype म्हणजे application कसं काम करेल हे दाखवणारं interactive model असतं.
+
+Q6. Which tool is used to create wireframes and prototypes?
+
+English: Figma is commonly used to create wireframes, UI designs, and interactive prototypes.
+
+Marathi + English: Wireframes, UI designs आणि interactive prototypes तयार करण्यासाठी Figma वापरतात.
+
+Q7. What is workout tracking?
+
+English: Workout tracking is the process of recording physical activities and exercise details.
+
+Marathi + English: केलेल्या physical activities आणि exercises ची माहिती record करण्याला Workout Tracking म्हणतात.
+
+Q8. What is exercise logging?
+
+English: Exercise logging means recording exercises, sets, repetitions, and workout duration.
+
+Marathi + English: कोणते exercises केले, किती sets आणि repetitions केले, किती वेळ workout केला हे record करणं म्हणजे Exercise Logging.
+
+Q9. What are sets and repetitions?
+
+English: A set is a group of exercises, and a repetition is one complete movement of an exercise.
+
+Marathi + English: Set म्हणजे exercise चा एक group आणि Repetition म्हणजे exercise ची एक complete movement.
+
+Q10. What is goal setting in a fitness app?
+
+English: Goal setting allows users to set fitness targets like losing weight or exercising daily.
+
+Marathi + English: Weight loss किंवा daily exercise सारखे fitness targets ठरवण्याला Goal Setting म्हणतात.
+
+Q11. What is a fitness dashboard?
+
+English: A fitness dashboard displays important information like daily activity, calories, and workout progress.
+
+Marathi + English: Daily activity, calories आणि workout progress दाखवणाऱ्या main screen ला Fitness Dashboard म्हणतात.
+
+Q12. What is social interaction in a fitness app?
+
+English: Social interaction allows users to connect with friends, share achievements, and motivate each other.
+
+Marathi + English: Friends सोबत connect होणे, achievements share करणे आणि एकमेकांना motivate करणे म्हणजे Social Interaction.
+
+Q13. What is a fitness activity feed?
+
+English: An activity feed displays recent workout updates and achievements shared by users and friends.
+
+Marathi + English: Users आणि friends यांनी share केलेले recent workouts आणि achievements दाखवणाऱ्या section ला Activity Feed म्हणतात.
+
+Q14. What is a leaderboard?
+
+English: A leaderboard displays users according to their performance or achievements.
+
+Marathi + English: Users ची performance किंवा achievements नुसार ranking दाखवणाऱ्या section ला Leaderboard म्हणतात.
+
+Q15. What is a fitness challenge?
+
+English: A fitness challenge is a task that motivates users to achieve a fitness target within a specific time.
+
+Marathi + English: ठराविक वेळेत fitness target complete करण्यासाठी दिलेल्या task ला Fitness Challenge म्हणतात.
+
+Q16. What is a user profile in a fitness app?
+
+English: A user profile contains personal details, fitness goals, workout history, and achievements.
+
+Marathi + English: User Profile मध्ये personal details, fitness goals, workout history आणि achievements असतात.
+
+Q17. What is progress tracking?
+
+English: Progress tracking helps users monitor their fitness improvement over time.
+
+Marathi + English: User ची fitness किती improve होत आहे हे वेळेनुसार monitor करण्याला Progress Tracking म्हणतात.
+
+Q18. What is a progress chart?
+
+English: A progress chart visually represents fitness data such as weight, calories, or workout time.
+
+Marathi + English: Weight, calories आणि workout time यांसारखा fitness data graph च्या स्वरूपात दाखवण्याला Progress Chart म्हणतात.
+
+Q19. What is a notification in a fitness app?
+
+English: Notifications remind users about workouts, goals, and friend activities.
+
+Marathi + English: Workouts, goals आणि friends च्या activities बद्दल reminders देण्यासाठी Notifications वापरतात.
+
+Q20. What is a call-to-action (CTA) button?
+
+English: A CTA button encourages users to perform an action, such as Start Workout or Add Exercise.
+
+Marathi + English: Start Workout किंवा Add Exercise सारखी action घेण्यासाठी user ला encourage करणाऱ्या button ला CTA म्हणतात.
+
+Q21. What is user engagement?
+
+English: User engagement means how actively users interact with an application.
+
+Marathi + English: Users application किती actively वापरतात आणि त्याच्याशी interact करतात, त्याला User Engagement म्हणतात.
+
+Q22. What is gamification?
+
+English: Gamification uses points, badges, rewards, and challenges to make an application more engaging.
+
+Marathi + English: App interesting बनवण्यासाठी points, badges, rewards आणि challenges वापरण्याला Gamification म्हणतात.
+
+Q23. What is responsive design?
+
+English: Responsive design adjusts the app layout according to different screen sizes.
+
+Marathi + English: Mobile आणि tablet च्या वेगवेगळ्या screen sizes नुसार design adjust होण्याला Responsive Design म्हणतात.
+
+Q24. What is user-friendly design?
+
+English: User-friendly design makes an application simple, clear, and easy to use.
+
+Marathi + English: Application simple, clear आणि वापरायला easy बनवणाऱ्या design ला User-friendly Design म्हणतात.
+
+Q25. What is the difference between Wireframe and Prototype?
+
+English: A wireframe shows the basic structure, while a prototype demonstrates the interactive working of the design.
+
+Marathi + English: Wireframe मध्ये basic structure दिसते, तर Prototype मध्ये design चं interactive working दाखवलं जातं.
+
+Q26. What is the difference between UI and UX?
+
+English: UI focuses on the appearance of an application, while UX focuses on the overall user experience.
+
+Marathi + English: UI म्हणजे application कसं दिसतं आणि UX म्हणजे ते वापरताना user ला कसा experience येतो.
+
+Q27. Why is Figma useful for prototyping?
+
+English: Figma allows designers to connect screens and add interactions without writing code.
+
+Marathi + English: Figma मध्ये coding न करता screens connect करून interactions add करता येतात.
+
+Q28. What is the purpose of a reminder feature?
+
+English: A reminder helps users remember their planned workouts and fitness goals.
+
+Marathi + English: Users ना त्यांचे planned workouts आणि fitness goals लक्षात ठेवण्यासाठी Reminder मदत करतो.
+
+Q29. How does a Social Fitness App motivate users?
+
+English: It motivates users through challenges, rewards, progress sharing, and friendly competition.
+
+Marathi + English: Challenges, rewards, progress sharing आणि friendly competition मुळे users motivate होतात.
+
+Q30. What is the main benefit of a Social Fitness App?
+
+English: It helps users maintain fitness, track improvement, and stay motivated with friends.
+
+Marathi + English: Fitness maintain करणे, improvement track करणे आणि friends सोबत motivated राहणे हा Social Fitness App चा मुख्य फायदा आहे.
