@@ -176,6 +176,226 @@ English: A User Persona describes a target user, while an Empathy Map describes 
 
 Marathi + English: User Persona user बद्दल माहिती देतो, तर Empathy Map user काय think, feel, say आणि do करतो हे दाखवतो.
 
+
+
+
+UI/UX Design – Important Viva Questions and Answers
+Here are simple, exam-ready questions and answers for your UI/UX Design practicals (Practical 6 to 10).
+1. Basic UI/UX Questions
+Q1. What is UI?
+
+UI stands for User Interface. It is the visual part of an application, such as buttons, colors, images, text and menus.
+
+Q2. What is UX?
+
+UX stands for User Experience. It describes how easily and comfortably a user can use an application.
+
+Q3. What is the difference between UI and UX?
+- UI focuses on the appearance of an application.
+- UX focuses on the user's overall experience.
+Q4. What is Figma?
+
+Figma is an online design tool used to create user interfaces, wireframes and prototypes.
+
+Q5. What is a wireframe?
+
+A wireframe is a basic layout or blueprint of an application or website.
+
+Q6. What is a prototype?
+
+A prototype is an interactive model of an application that shows how users can navigate between screens.
+
+Q7. What is a mockup?
+
+A mockup is a visual representation of the final design of an application.
+
+Q8. What is usability?
+
+Usability means how easily users can understand and use an application.
+
+Q9. What is typography?
+
+Typography is the style and appearance of text, including font, size and spacing.
+
+Q10. What is responsive design?
+
+Responsive design means a website or application adjusts to different screen sizes.
+
+2. Practical 6 – User Persona
+Q1. What is a user persona?
+
+A user persona is a fictional representation of a target user based on user research.
+
+Q2. Why do we create a user persona?
+
+To understand users' needs, goals, interests and problems.
+
+Q3. What are the main elements of a user persona?
+- Name and age
+- Occupation
+- Goals
+- Needs
+- Interests
+- Challenges
+- Behaviour
+Q4. What are user goals?
+
+User goals are the things users want to achieve using a product.
+
+Q5. What are pain points?
+
+Pain points are the problems or difficulties faced by users.
+
+Q6. What is empathy in UI/UX?
+
+Empathy means understanding users' feelings, needs and difficulties.
+
+Q7. Which tools are used to create user personas?
+
+Figma, FigJam, Canva and Miro.
+3. Practical 7 – Online Learning Platform Wireframe
+Q1. What is an e-learning platform?
+
+An e-learning platform is an online system used to learn through courses, videos and quizzes.
+
+Q2. What is the purpose of a wireframe?
+
+To plan the layout and structure of an application before final designing.
+
+Q3. Which screens are included in your e-learning platform?
+1. Home
+2. Course Listing
+3. Course Details
+4. Video Lecture
+5. Quiz
+6. Progress Tracking
+Q4. What is navigation?
+
+Navigation helps users move from one screen or page to another.
+
+Q5. What is a dashboard?
+
+A dashboard displays important information such as courses, progress and activities.
+
+Q6. What is a low-fidelity wireframe?
+
+It is a simple design made using basic shapes, boxes and text without detailed styling.
+4. Practical 8 – Social Fitness Application
+Q1. What is a social fitness application?
+
+It is an application that helps users track fitness activities and connect with friends.
+
+Q2. What are the main features of a fitness application?
+- Workout tracking
+- Daily steps
+- Fitness goals
+- Progress monitoring
+- Friends and challenges
+Q3. What is workout tracking?
+
+It means recording physical activities such as running, walking and cycling.
+
+Q4. What is a fitness goal?
+
+A fitness goal is a target set by a user, such as walking 10,000 steps daily.
+
+Q5. Why are social features useful?
+
+They help users connect, share progress and motivate each other.
+
+Q6. What is a leaderboard?
+
+A leaderboard displays users' rankings based on their performance.
+5. Practical 9 – Product Packaging / Poster Mockup
+Q1. What is product packaging?
+
+Product packaging is the material or design used to cover and present a product.
+
+Q2. What is a mockup?
+
+A mockup shows how a design may look in a real-world situation.
+
+Q3. What are the main elements of product packaging?
+- Product name
+- Logo
+- Brand name
+- Product image or illustration
+- Product information
+- Colors
+Q4. What is a poster?
+
+A poster is a visual design used to communicate information or advertise something.
+
+Q5. Why are colors important in packaging?
+
+Colors attract customers and help communicate the product's identity.
+
+Q6. Which tools are used for creating mockups?
+
+Canva, Figma, Photoshop and Illustrator.
+6. Practical 10 – Recipe Finder Application
+Q1. What is a recipe finder application?
+
+It is an application that helps users find recipes based on ingredients, food categories or dietary preferences.
+
+Q2. What are the main features of a recipe finder app?
+- Search recipes
+- Filter by ingredients
+- Food categories
+- Recipe details
+- Cooking instructions
+- Favourite recipes
+Q3. What is a search bar?
+
+A search bar allows users to find information by entering keywords.
+
+Q4. What is a filter?
+
+A filter helps users find specific results based on selected conditions.
+
+Q5. What is a favourite feature?
+
+It allows users to save their preferred recipes for future use.
+
+Q6. Why is a recipe details page important?
+
+It displays ingredients, cooking time and preparation instructions.
+
+Q7. What is a user-friendly application?
+
+An application that is simple, easy to understand and easy to use.
+
+7. Common Figma Questions
+Question	Answer
+What is Figma?	UI/UX design tool.
+What is a Frame?	Container used to create a screen or layout.
+What is a Shape?	Basic element like rectangle or circle.
+What is a Text tool?	Used to add text.
+What is a Component?	Reusable design element.
+What is Auto Layout?	Helps arrange elements automatically.
+What is a Design System?	Collection of reusable design rules and components.
+What is a Prototype connection?	Link between screens.
+What is a Canvas?	Workspace where designs are created.
+What is Export?	Saving a design in formats like PNG or PDF.
+
+8. Most Important 15 Questions for Your Viva
+Focus on these questions first:
+1. What is UI?
+2. What is UX?
+3. Difference between UI and UX?
+4. What is Figma?
+5. What is a wireframe?
+6. What is a prototype?
+7. What is a mockup?
+8. What is a user persona?
+9. What are pain points?
+10. What is low-fidelity design?
+11. What is navigation?
+12. What is responsive design?
+13. What is usability?
+14. What is a search filter?
+15. What is user-centered design?
+
 Q30. Give an example of a User Persona.
 
 English: Rahul is a 22-year-old student who uses an online shopping app. His goal is to buy products easily, and his frustration is slow delivery.
